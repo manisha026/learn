@@ -1,6 +1,7 @@
 import java.util.*;
 interface Basic{
     public void first();
+    
 }
 class Cplus{
     public void second(){
